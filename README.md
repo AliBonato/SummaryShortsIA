@@ -1,4 +1,7 @@
 # SummaryShortsIA
 
+    copiar repositorio
+    instalar as dependencias
     npm run web
-    Navegar para http://localhost:5173/.
+    npm run server
+    Navegar para http://localhost:5173
